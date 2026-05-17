@@ -1,117 +1,53 @@
-# Hi there 👋 I'm Joshim
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Lover;Always+Learning+New+Things" />
+# 👋 Hi, I'm @JoshimOfficial
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Open+Source+Contributor;Building+Real+World+Projects;Always+Learning+New+Tech" />
 
 ---
 
-# 📌 Profile Info
+### 📊 GitHub Live Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshimOfficial&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/JoshimOfficial?label=Followers&style=for-the-badge&color=success" />
-  <img src="https://img.shields.io/github/stars/JoshimOfficial?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Joined-GitHub-blue?style=for-the-badge&logo=github" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshimOfficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshimOfficial&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-# 📊 GitHub Statistics
+### 🔥 Streak Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshimOfficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshimOfficial&layout=compact&theme=radical&border_radius=15"/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=JoshimOfficial&theme=tokyonight&hide_border=true" />
 
 ---
 
-# 🔥 GitHub Streak Stats
+### 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoshimOfficial&theme=radical&border_radius=15" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshimOfficial&theme=github-compact&hide_border=true" width="100%"/>
 
 ---
 
-# 📈 Contribution Graph
+### 🏆 GitHub Achievements (Auto Generated)
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshimOfficial&theme=react-dark&bg_color=0D1117&hide_border=true&line=F72585&point=FFFFFF&area=true" width="95%" />
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=JoshimOfficial&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 ---
 
-# 🏆 GitHub Achievements
+### 📦 Profile Details (Fully Dynamic Cards)
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshimOfficial&theme=tokyonight" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoshimOfficial&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshimOfficial&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoshimOfficial&theme=tokyonight" />
 
 ---
 
-# ⚡ Contribution Snake
-
-<div align="center">
+### 🐍 Contribution Snake (Auto-generated)
 
 <img src="https://raw.githubusercontent.com/JoshimOfficial/JoshimOfficial/output/github-contribution-grid-snake.svg" />
 
-</div>
-
 ---
 
-# 🚀 Tech Stack
+### 👀 Profile Views (Live Counter)
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,vscode" />
-
-</div>
-
----
-
-# 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshimOfficial&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshimOfficial&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoshimOfficial&theme=radical" />
-
-</div>
-
----
-
-# ⏳ WakaTime Stats
-
-<div align="center">
-
-<!-- Replace username with your WakaTime username -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshimOfficial&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-
-### ❤️ Thanks for visiting my profile
+<img src="https://komarev.com/ghpvc/?username=JoshimOfficial&style=for-the-badge&color=0e75b6" />
 
 </div>
