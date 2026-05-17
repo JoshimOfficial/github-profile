@@ -4,15 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=GitHub+Profile+Dashboard;Live+Stats+%26+Activity;Open+Source+Contributor;Building+Real+World+Projects" />
 
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoshimOfficial&show_icons=true&theme=react&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshimOfficial&layout=compact&theme=react&hide_border=true" />
-
----
 
 ## 🔥 Contribution Streak
 
